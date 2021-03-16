@@ -2,8 +2,10 @@
 
 To start in command line:
 ```shell
-  mvn spring-aot:generate spring-boot:run
+  mvn clean spring-aot:generate spring-boot:run
 ```
+
+or... just execute the shell file `start.sh`
 
 This will start the application in port 8080.
 

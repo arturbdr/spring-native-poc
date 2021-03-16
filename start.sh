@@ -1,0 +1,1 @@
+mvn clean spring-aot:generate spring-boot:run
